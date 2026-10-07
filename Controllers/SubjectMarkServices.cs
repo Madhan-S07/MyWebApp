@@ -25,6 +25,13 @@ namespace MyWebApp.Services
         }
 
         // POST
+
+        public async Task<SubjectMark> AddSubjectMarkAsync(SubjectMark subjectMark)
+        {
+            await dbContext.MarkDetails.AddAsync(subjectMark);
+            await dbContext.SaveChangesAsync();
+            return subjectMark;
+        }
         
     }
 }

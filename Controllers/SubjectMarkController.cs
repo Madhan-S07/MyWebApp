@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using MyWebApp.Models;
 using MyWebApp.Services;
 
 namespace MyWebApp.Controllers
@@ -29,6 +30,18 @@ namespace MyWebApp.Controllers
                 return NotFound("Not found");
             return Ok(this_subject);
         }
+
+        [HttpPost]
+    public async Task<IActionResult> Create([FromBody] SubjectMark subMark)
+    {
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+
+        var createdMark = await subMarkService.AddSubjectMarkAsync(subMark);
+        return Ok(createdMark);
+    }
 
        
     }
