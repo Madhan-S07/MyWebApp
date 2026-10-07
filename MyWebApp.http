@@ -1,0 +1,5 @@
+### PUT: replace record 1
+PUT http://localhost:5126/api/SubjectMark/1
+Content-Type: application/json
+
+{ "subject": "Maths", "mark": 50 }
