@@ -72,3 +72,4 @@ C:\Users\user\Desktop\Training\MyWebApp\bin\Debug\net10.0\runtimes\osx-x64\nativ
 C:\Users\user\Desktop\Training\MyWebApp\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\user\Desktop\Training\MyWebApp\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\user\Desktop\Training\MyWebApp\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\Training\MyWebApp\bin\Debug\net10.0\Scalar.AspNetCore.dll

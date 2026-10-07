@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rLbJ+gVRaTU=",
+  "dgSpecHash": "SvHnrH4uswo=",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\Training\\MyWebApp\\MyWebApp.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\10.0.12\\microsoft.entityframeworkcore.sqlite.core.10.0.12.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.12\\microsoft.extensions.dependencymodel.10.0.12.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\scalar.aspnetcore\\2.17.14\\scalar.aspnetcore.2.17.14.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\serilog\\4.4.0\\serilog.4.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\serilog.aspnetcore\\10.0.0\\serilog.aspnetcore.10.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\serilog.extensions.hosting\\10.0.0\\serilog.extensions.hosting.10.0.0.nupkg.sha512",
